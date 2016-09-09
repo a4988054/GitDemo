@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <Button 
+        android:text="open the fucking window"
+        android:id="@+id/openActivity"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        />
+    <Button 
+        android:text="close"
+        android:id="@+id/closeActivity"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+       />
+</RelativeLayout>
